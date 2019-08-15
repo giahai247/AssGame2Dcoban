@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: a334f8ad19fd7af4a85f0800a5723568
+timeCreated: 1558867433
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lep_Kid-hd_0
+    21300002: Lep_Kid-hd_1
+    21300004: Lep_Kid-hd_2
+    21300006: Lep_Kid-hd_3
+    21300008: Lep_Kid-hd_4
+    21300010: Lep_Kid-hd_5
+    21300012: Lep_Kid-hd_6
+    21300014: Lep_Kid-hd_7
+    21300016: Lep_Kid-hd_8
+    21300018: Lep_Kid-hd_9
+    21300020: Lep_Kid-hd_10
+    21300022: Lep_Kid-hd_11
+    21300024: Lep_Kid-hd_12
+    21300026: Lep_Kid-hd_13
+    21300028: Lep_Kid-hd_14
+    21300030: Lep_Kid-hd_15
+    21300032: Lep_Kid-hd_16
+    21300034: Lep_Kid-hd_17
+    21300036: Lep_Kid-hd_18
+    21300038: Lep_Kid-hd_19
+    21300040: Lep_Kid-hd_20
+    21300042: Lep_Kid-hd_21
+    21300044: Lep_Kid-hd_22
+    21300046: Lep_Kid-hd_23
+    21300048: Lep_Kid-hd_24
+    21300050: Lep_Kid-hd_25
+    21300052: Lep_Kid-hd_26
+    21300054: Lep_Kid-hd_27
+    21300056: Lep_Kid-hd_28
+    21300058: Lep_Kid-hd_29
+    21300060: Lep_Kid-hd_30
+    21300062: Lep_Kid-hd_31
+    21300064: Lep_Kid-hd_32
+    21300066: Lep_Kid-hd_33
+    21300068: Lep_Kid-hd_34
+    21300070: Lep_Kid-hd_35
+    21300072: Lep_Kid-hd_36
+    21300074: Lep_Kid-hd_37
+    21300076: Lep_Kid-hd_38
+    21300078: Lep_Kid-hd_39
+    21300080: Lep_Kid-hd_40
+    21300082: Lep_Kid-hd_41
+    21300084: Lep_Kid-hd_42
+    21300086: Lep_Kid-hd_43
+    21300088: Lep_Kid-hd_44
+    21300090: Lep_Kid-hd_45
+    21300092: Lep_Kid-hd_46
+    21300094: Lep_Kid-hd_47
+    21300096: Lep_Kid-hd_48
+    21300098: Lep_Kid-hd_49
+    21300100: Lep_Kid-hd_50
+    21300102: Lep_Kid-hd_51
+    21300104: Lep_Kid-hd_52
+    21300106: Lep_Kid-hd_53
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lep_Kid-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 419
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 421
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 423
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 423
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 425
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 425
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 425
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 425
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 427
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 328
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 332
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 334
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 336
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 338
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_15
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 338
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 338
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 362
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 233
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 247
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 249
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 251
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 251
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 253
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_26
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 305
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 254
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 140
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 142
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 160
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_33
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 162
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 164
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 166
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 224
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 213
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 53
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 63
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 65
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 73
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 75
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 79
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 113
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lep_Kid-hd_53
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 22
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

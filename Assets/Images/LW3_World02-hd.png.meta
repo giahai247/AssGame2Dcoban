@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: 310c04e1f1553e54481caaa83ac15f01
+timeCreated: 1558861928
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LW3_World02-hd_0
+    21300002: LW3_World02-hd_1
+    21300004: LW3_World02-hd_2
+    21300006: LW3_World02-hd_3
+    21300008: LW3_World02-hd_4
+    21300010: LW3_World02-hd_5
+    21300012: LW3_World02-hd_6
+    21300014: LW3_World02-hd_7
+    21300016: LW3_World02-hd_8
+    21300018: LW3_World02-hd_9
+    21300020: LW3_World02-hd_10
+    21300022: LW3_World02-hd_11
+    21300024: LW3_World02-hd_12
+    21300026: LW3_World02-hd_13
+    21300028: LW3_World02-hd_14
+    21300030: LW3_World02-hd_15
+    21300032: LW3_World02-hd_16
+    21300034: LW3_World02-hd_17
+    21300036: LW3_World02-hd_18
+    21300038: LW3_World02-hd_19
+    21300040: LW3_World02-hd_20
+    21300042: LW3_World02-hd_21
+    21300044: LW3_World02-hd_22
+    21300046: LW3_World02-hd_23
+    21300048: LW3_World02-hd_24
+    21300050: LW3_World02-hd_25
+    21300052: LW3_World02-hd_26
+    21300054: LW3_World02-hd_27
+    21300056: LW3_World02-hd_28
+    21300058: LW3_World02-hd_29
+    21300060: LW3_World02-hd_30
+    21300062: LW3_World02-hd_31
+    21300064: LW3_World02-hd_32
+    21300066: LW3_World02-hd_33
+    21300068: LW3_World02-hd_34
+    21300070: LW3_World02-hd_35
+    21300072: LW3_World02-hd_36
+    21300074: LW3_World02-hd_37
+    21300076: LW3_World02-hd_38
+    21300078: LW3_World02-hd_39
+    21300080: LW3_World02-hd_40
+    21300082: LW3_World02-hd_41
+    21300084: LW3_World02-hd_42
+    21300086: LW3_World02-hd_43
+    21300088: LW3_World02-hd_44
+    21300090: LW3_World02-hd_45
+    21300092: LW3_World02-hd_46
+    21300094: LW3_World02-hd_47
+    21300096: LW3_World02-hd_48
+    21300098: LW3_World02-hd_49
+    21300100: LW3_World02-hd_50
+    21300102: LW3_World02-hd_51
+    21300104: LW3_World02-hd_52
+    21300106: LW3_World02-hd_53
+    21300108: LW3_World02-hd_54
+    21300110: LW3_World02-hd_55
+    21300112: LW3_World02-hd_56
+    21300114: LW3_World02-hd_57
+    21300116: LW3_World02-hd_58
+    21300118: LW3_World02-hd_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LW3_World02-hd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1618
+        width: 1000
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1208
+        width: 1000
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1614
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 640
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_4
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1059
+        width: 282
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_5
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1054
+        width: 76
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_6
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 907
+        width: 262
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_7
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 961
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 769
+        width: 262
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_9
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 883
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_10
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 827
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_11
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 839
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_12
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 771
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_13
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 795
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_14
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 628
+        width: 229
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_15
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 716
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_16
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 715
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_17
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 743
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_18
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 696
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_19
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 501
+        width: 224
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_20
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 529
+        width: 139
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_21
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 471
+        width: 115
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_22
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 505
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 445
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_24
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 445
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_25
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 445
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 476
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_27
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 479
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_28
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 451
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_29
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 415
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_30
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 415
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_31
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 454
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_32
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 389
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_33
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 389
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_34
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 389
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_35
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 402
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_36
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 427
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_37
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 431
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_38
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 406
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_39
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 359
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_40
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 359
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_41
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 404
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_42
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 333
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_43
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 333
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_44
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 333
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_45
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 385
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_46
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 277
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_47
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 277
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_48
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 277
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_49
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 303
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_50
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 303
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_51
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 303
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_52
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 221
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_53
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 221
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_54
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 221
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_55
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 247
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 247
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_57
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 247
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_58
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 191
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LW3_World02-hd_59
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 191
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
